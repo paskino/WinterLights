@@ -1,0 +1,6 @@
+[submodule "SoftPWM"]
+	path = SoftPWM
+	url = https://github.com/bhagman/SoftPWM
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/bhagman/SoftPWM
